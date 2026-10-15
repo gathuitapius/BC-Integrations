@@ -1,0 +1,19 @@
+# Symbol packages downloaded by "Download symbols" (large, regenerated)
+.alpackages/
+
+# Compiled extension output
+*.app
+
+# AL Language local state
+.snapshots/
+.altestrunner/
+rad.json
+
+# VS Code: keep launch.json and settings.json, ignore the rest
+.vscode/*
+!.vscode/launch.json
+!.vscode/settings.json
+
+# Secrets / local config
+*.env
+*.key
